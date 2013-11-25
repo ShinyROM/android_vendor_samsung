@@ -18,7 +18,6 @@ PRODUCT_PACKAGES := \
     IMSFramework \
     RTN \
     SDM \
-    SPG \
     SyncMLSvc \
     fRom \
     libsecril-client \
